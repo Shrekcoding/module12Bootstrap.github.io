@@ -1,0 +1,17 @@
+For this assignment, I have made seven websites. 
+
+For the home page, I made a drop down navigation using the navbar collapse class that bootstrap has provided and putting my links in an unordered list. 
+
+Buttons.html contains multiple colored buttons that correspond to the websites they took you to. For instance, the Youtube button is red to mach the company's color scheme.
+
+Carousel.Html contains pictures of art projects I have done this year. I made indicators as well as left and right controls so that one could easily scroll throug the collection.
+
+For forms.html, I created a simple email form that does nothing. However, the form will detect an invalid email if one were to be entered.
+
+I centered the Modal in modal.html and made it so that one could open and close the modal using target and dismiss properties on two buttons.
+
+For the Rows and collumns html page, I made a row containing some collumns with differing size values.
+
+On ShowCollapse.html, I made it so that viewers could open and close a collumn using the row collapse class.
+
+In addiction to bootstrap css and js, I linked my own minor css page to all my html pages. The page simply turns the background gray and centers wording along with some divs.
